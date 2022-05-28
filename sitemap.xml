@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://github.com/Sxyyyyyy/sxyyyyyy.github.io.git/2022/05/14/Hexo-Github-Pages-%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BABlog%E5%B9%B6%E7%BB%91%E5%AE%9A%E8%87%B3%E4%B8%AA%E4%BA%BA%E5%9F%9F%E5%90%8D/</loc>
+    
+    <lastmod>2022-05-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://github.com/Sxyyyyyy/sxyyyyyy.github.io.git</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://github.com/Sxyyyyyy/sxyyyyyy.github.io.git/tags/blog/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+</urlset>
